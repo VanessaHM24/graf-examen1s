@@ -1,0 +1,7 @@
+/* Estilos para la imagen */
+#image {
+    transition: all 0.3s ease;
+}
+h1, h2, h4, b, strong {
+    font-weight: bold !important;
+}
